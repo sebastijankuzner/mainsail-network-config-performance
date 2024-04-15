@@ -97,7 +97,10 @@
 			"package": "@mainsail/crypto-commit"
 		},
 		{
-			"package": "@mainsail/p2p"
+			"package": "@mainsail/p2p",
+			"options": {
+				"rateLimitPostTransactions": 10
+			}
 		},
 		{
 			"package": "@mainsail/api-transaction-pool"
