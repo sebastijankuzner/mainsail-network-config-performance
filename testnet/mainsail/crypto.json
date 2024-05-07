@@ -3530,7 +3530,7 @@
             },
             "block": {
                 "maxPayload": 2097152,
-                "maxTransactions": 600,
+                "maxTransactions": 6000,
                 "version": 1
             },
             "blockTime": 8000,
