@@ -71,9 +71,11 @@
 		},
 		{
 			"package": "@mainsail/logger-pino",
-			"levels": {
-				"console": "info",
-				"file": "info"
+			"options": {
+				"levels": {
+					"console": "info",
+					"file": "info"
+				}
 			}
 		},
 		{
