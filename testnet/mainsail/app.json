@@ -194,7 +194,13 @@
 	],
 	"transaction-pool": [
 		{
-			"package": "@mainsail/logger-pino"
+			"package": "@mainsail/logger-pino",
+			"options": {
+				"levels": {
+					"console": "info",
+					"file": "info"
+				}
+			}
 		},
 		{
 			"package": "@mainsail/validation"
