@@ -3536,7 +3536,7 @@
 			"timeouts": {
 				"blockTime": 8000,
 				"blockPrepareTime": 4000,
-                "blockCollateTime": 3000,
+                "blockCollateTime": 2000,
 				"stageTimeout": 4000,
 				"stageTimeoutIncrease": 2000
 			},
