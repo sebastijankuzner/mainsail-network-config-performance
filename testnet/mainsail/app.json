@@ -197,8 +197,8 @@
 			"package": "@mainsail/logger-pino",
 			"options": {
 				"levels": {
-					"console": "info",
-					"file": "info"
+					"console": "none",
+					"file": "none"
 				}
 			}
 		},
