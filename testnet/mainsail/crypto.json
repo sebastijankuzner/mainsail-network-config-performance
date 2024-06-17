@@ -3530,7 +3530,7 @@
 			},
 			"block": {
 				"maxPayload": 20971520,
-				"maxTransactions": 1000,
+				"maxTransactions": 10000,
 				"version": 1
 			},
 			"timeouts": {
