@@ -275,7 +275,10 @@
 			}
 		},
 		{
-			"package": "@mainsail/transaction-pool-service"
+			"package": "@mainsail/transaction-pool-service",
+			"options": {
+				"maxTransactionsPerSender": 10000
+			}
 		},
 		{
 			"package": "@mainsail/transaction-pool-broadcaster"
